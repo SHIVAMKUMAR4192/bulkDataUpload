@@ -1,0 +1,18 @@
+{
+    "type": "object",
+    "properties": {
+      "name": { "type": "string" },
+      "address": {
+        "type": "object",
+        "properties": {
+          "country": { "type": "string" },
+          "pincode": { "type": "integer" },
+          "state": { "type": "string" }
+        },
+        "required": ["country", "pincode", "state"]
+      },
+      "employeeId": { "type": "integer" }
+        },
+    "required": ["name", "address", "employeeId"]
+  }
+  
