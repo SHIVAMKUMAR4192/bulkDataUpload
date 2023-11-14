@@ -17,5 +17,5 @@ export const employee = pgTable('employee', {
 export type SelectEmployee = InferModel<typeof employee>;
 export type InsertEmployee = InferModel<typeof employee, 'insert'>;
 
-export const SelectEmployee = createSelectSchema(employee);
-export const InsertEmployee = createInsertSchema(employee);
+export const SelectEmployee1 = createSelectSchema(employee);
+export const InsertEmployee1 = createInsertSchema(employee);

@@ -39,7 +39,7 @@
 
 import { Router } from 'express';
 import multer from 'multer';
-import { uploadFile } from '../controller/uploadController';
+import { uploadFile } from '../controller/singleUploadController';
 
 const router = Router();
 
@@ -55,6 +55,6 @@ const storage = multer.diskStorage({
 
 const upload = multer({ storage }); 
 
-router.post('/upload', upload.single('jsonFile'), uploadFile);
+router.post('/singleupload', upload.single('jsonFile'), uploadFile);
 
 export default router;

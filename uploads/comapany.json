@@ -1,0 +1,123 @@
+[
+    {
+      "name": "ABC Corporation",
+      "address": {
+        "country": "United States",
+        "pincode": 98765,
+        "state": "California"
+      }
+    },
+    {
+      "name": "XYZ Enterprises",
+      "address": {
+        "country": "Canada",
+        "pincode": 56789,
+        "state": "Ontario"
+      }
+    },
+    {
+      "name": "Tech Innovators Ltd.",
+      "address": {
+        "country": "United Kingdom",
+        "pincode": 54321,
+        "state": "London"
+      }
+    },
+    {
+      "name": "Global Solutions Inc.",
+      "address": {
+        "country": "Australia",
+        "pincode": 12345,
+        "state": "Sydney"
+      }
+    },
+    {
+      "name": "Data Masters Co.",
+      "address": {
+        "country": "Germany",
+        "pincode": 87654,
+        "state": "Berlin"
+      }
+    },
+    {
+      "name": "Innovate IT Services",
+      "address": {
+        "country": "India",
+        "pincode": 34567,
+        "state": "Bangalore"
+      }
+    },
+    {
+      "name": "Eco-Friendly Solutions",
+      "address": {
+        "country": "Brazil",
+        "pincode": 65432,
+        "state": "Sao Paulo"
+      }
+    },
+    {
+      "name": "Smart Tech Innovations",
+      "address": {
+        "country": "South Korea",
+        "pincode": 87678,
+        "state": "Seoul"
+      }
+    },
+    {
+      "name": "Financial Wizards Inc.",
+      "address": {
+        "country": "Singapore",
+        "pincode": 23456,
+        "state": "Singapore City"
+      }
+    },
+    {
+      "name": "Healthcare Innovations Ltd.",
+      "address": {
+        "country": "France",
+        "pincode": 78901,
+        "state": "Paris"
+      }
+    },
+    {
+      "name": "Green Energy Solutions",
+      "address": {
+        "country": "Netherlands",
+        "pincode": 56789,
+        "state": "Amsterdam"
+      }
+    },
+    {
+      "name": "Future Technologies Co.",
+      "address": {
+        "country": "Japan",
+        "pincode": 10987,
+        "state": "Tokyo"
+      }
+    },
+    {
+      "name": "Digital Marketing Hub",
+      "address": {
+        "country": "Mexico",
+        "pincode": 34567,
+        "state": "Mexico City"
+      }
+    },
+    {
+      "name": "Smart Home Innovations",
+      "address": {
+        "country": "Sweden",
+        "pincode": 87654,
+        "state": "Stockholm"
+      }
+    },
+    {
+      "name": "Automotive Technologies Inc.",
+      "address": {
+        "country": "Italy",
+        "pincode": 54321,
+        "state": "Rome"
+      }
+    }
+  ]
+  

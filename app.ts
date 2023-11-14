@@ -25,14 +25,16 @@
 
 import express from 'express';
 import { json } from 'body-parser';
-import uploadRoutes from './routes/uploadRoute';
+import singleUploadRoutes from './routes/singleUploadRoute';
+import multipleUploadRoutes from './routes/multipleUploadRoute'
 
 const app = express();
 const port = 3000;
 
 app.use(json());
 
-app.use(uploadRoutes);
+app.use(singleUploadRoutes);
+app.use(multipleUploadRoutes);
 
 app.listen(port, () => {
   console.log(`Server is running on http://localhost:${port}`);

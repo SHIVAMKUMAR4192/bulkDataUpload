@@ -1,6 +1,6 @@
 import express, {Express} from 'express';
 import request from 'supertest';
-import { uploadFile } from '../controller/uploadController';
+import { uploadFile } from '../controller/singleUploadController';
 
 const validJSONData = {
     name: 'Anna Petrova',
